@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Sistem Infomasi Sekolah</title>
+</head>
+<body bgcolor="#00ff7f">
+    <h1 align="center"><font color="#ff0000" face="Times new roman">Informasi Jurusan</font></h1>
+    <h2 align="center"><font face="Times new roman">~ Teknik Komputer Jaringan</font></h2>
+    <h3 align="center"><font face="Times new roman">~ Administrasi Keuangan</font></h3>
+<a href="Tugas Informasi sekolah"><button>Home</button></a>
+<a href="Informasi Biaya"><button>Biaya</button></a>
+</body>
+</html>

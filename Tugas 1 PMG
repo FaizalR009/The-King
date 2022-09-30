@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>
+Tabel Harga HP Rekomendasi
+</title>
+</head>
+<body bgcolor="gray">
+<table width="50%" border="5" cellspacing="0" align="center" bgcolor="white">
+	<tr>
+		<td align="center"><b>Nama HP</b></td>
+		<td align="center"><b>Harga</b></td>
+	</tr>
+	<tr>
+		<td align="center">Xiaomi Mi 11 pro</td>
+		<td align="center">Rp 11.999.000</td>
+	</tr>
+	<tr>
+		<td align="center">Xiaomi POCO F4 GT</td>
+		<td align="center">Rp 9.999.000</td>
+	</tr>
+	<tr>
+		<td align="center">Xiaomi POCO F4</td>
+		<td align="center">Rp 4.999.000</td>
+	</tr>
+	<tr>
+		<td align="center">Xiaomi POCO X3 GT</td>
+		<td align="center">Rp 4.399.000</td>
+	</tr>
+</table>
+<table width="18%" border="5" cellspacing="0" align="center" bgcolor="white">
+	<tr>
+		<td align="center"><a href="Linked to Tugas 1"><b>Harga Diri</b></a></td>
+		<td align="center"><a href="Linked to Tugas 1 (2)"><b>Mari Berteman</b></a></td>
+	</tr>
+</table>
+</body>
+</html>

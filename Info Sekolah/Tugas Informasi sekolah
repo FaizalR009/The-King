@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Sistem Infomasi Sekolah</title>
+</head>
+<body bgcolor="#00ff7f">
+    <h1 align="center"><font color="#ff0000" face="Times new roman">Informasi Sekolah</font></h1>
+        <h2 align="center">Sekolah menengah Kejuruan yang mengedepankan Keimanan dan Skill <br> agar siswa dapat bertahan saat bergelut di dunia kerja nanti</h2>
+    <h3 align="left">Alamat : jl.Tabrik No.8, RT.03/RW.03, Banjaran wetan, Kec.Banjaran, Kabupaten bandung, Jawa Barat 40377</h2>
+<a href="Informasi Jurusan"><button>Jurusan</button></a>
+<a href="Informasi Biaya"><button>Fasilitas</button></a>
+</body>
+</html>

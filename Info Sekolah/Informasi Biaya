@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Sistem Infomasi Sekolah</title>
+</head>
+<body bgcolor="#00ff7f">
+    <h1 align="center"><font color="#ff0000" face="Times new roman">Informasi Fasilitas</font></h1>
+    <h2 align="center"><font face="Times new roman">Fasilitas di antaranya adalah :</font></h2>
+    <h3><font face="Times new roman">1. Ac di setiap lab <br>2. Lab Komputer yang dimana setiap siswa menggunakan 1 komputer <br>3. Musholla <br>4. Perpustakaan</font></h3>
+<a href="Tugas Informasi sekolah"><button>Home</button></a>
+<a href="Informasi Jurusan"><button>Jurusan</button></a>
+</body>
+</html>
